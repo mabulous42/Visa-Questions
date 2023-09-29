@@ -10,7 +10,8 @@ let interviewQuestions = [
     'What do you do currently?',
     'What is your Post Study Plan?',
     'How do you intend to pay for your deficit?',
-    'Why will your uncle be paying that much for your study'
+    'Why will your sister/uncle be paying that much for your study?',
+    'How many schools did you apply to?'
 ]
 let num = 1;
 console.log(num);
