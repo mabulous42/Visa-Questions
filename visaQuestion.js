@@ -11,7 +11,8 @@ let interviewQuestions = [
     'What is your Post Study Plan?',
     'How do you intend to pay for your deficit?',
     'Why will your sister/uncle be paying that much for your study?',
-    'How many schools did you apply to?'
+    'How many schools did you apply to?',
+    'What is your highest level of Education?'
 ]
 let num = 1;
 console.log(num);
